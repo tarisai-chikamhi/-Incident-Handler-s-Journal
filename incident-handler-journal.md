@@ -115,3 +115,10 @@ This journal demonstrates:
 - Ability to analyze and document security events  
 
 It reflects my readiness to perform entry-level cybersecurity analysis tasks in a real-world environment. 
+
+## 📊 Key Takeaways
+
+- Phishing is a primary entry point for ransomware attacks  
+- Network traffic analysis helps identify anomalies and misconfigurations  
+- SIEM tools enable detection of suspicious patterns such as brute-force attacks  
+- Threat intelligence tools are essential for validating potential threats  
